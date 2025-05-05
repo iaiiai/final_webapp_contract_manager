@@ -47,7 +47,7 @@ SARVAR_FINAL_WEBAPP_CONTRACT_MANAGER/
 ## 🔗 Deployed Resources
 
 - 🌐 **Frontend (S3):** [CLICK](http://2t-sarvar-final.s3-website.ap-south-1.amazonaws.com/)
-- 🖥️ **Backend (EC2):** [CLICK](http://2t-sarvar-final.s3-website.ap-south-1.amazonaws.com/)
+- 🖥️ **Backend (EC2):** [CLICK](http://13.232.36.214:5000/contracts)
 - 🗄️ **Database (RDS):** Integrated with the Flask app
 
 ---
