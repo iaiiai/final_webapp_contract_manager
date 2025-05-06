@@ -57,7 +57,7 @@ SARVAR_FINAL_WEBAPP_CONTRACT_MANAGER/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/yourusername/SARVAR_FINAL_WEBAPP_CONTRACT_MANAGER.git
+git clone https://github.com/iaiiai/SARVAR_FINAL_WEBAPP_CONTRACT_MANAGER.git
 cd SARVAR_FINAL_WEBAPP_CONTRACT_MANAGER
 ```
 
